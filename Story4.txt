@@ -1,0 +1,43 @@
+Start experiment.
+
+First perspective.
+
+xx and yy are persons.
+
+If xx is the father of yy then yy is the child of xx.
+If xx is the child of yy then xx is personally related to yy.
+If xx is personally related to yy then yy is personally related to xx.
+If xx is the teacher of yy then yy is the student of xx.
+If xx is the student of yy then xx is professionally related to yy.
+If xx is professionally related to yy then yy is professionally related to xx.
+
+If xx is the teacher of yy and yy fails in exam then xx is disgusted with yy.
+If xx is the teacher of yy and xx is disgusted with yy and xx scolds yy then yy fears xx.
+
+If xx is the father of yy and xx helps yy in studies then xx is happy with yy.
+If xx is the father of yy and xx helps yy in studies then yy is happy with xx.
+If xx is the child of yy and xx is happy with yy and xx admires yy then yy likes xx.
+
+If xx is the student of yy and xx performs well in exams then yy is happy with xx.
+If xx is the student of yy and xx performs well in exams then xx is happy with yy.
+
+If xx is the teacher of yy and xx is disgusted with yy and xx is happy with yy then xx feels morbid towards yy.
+If xx is the father of yy and xx is happy with yy and xx likes yy then xx feels joyful towards yy.
+If xx is the child of yy and xx is happy with yy then xx feels joyful towards yy.
+
+
+xx may admire yy because xx is happy with yy.
+xx may scold yy because xx is disgusted with yy.
+
+
+Jacob and Roy are persons.
+Maria and Roy are persons.
+
+
+Start story titled "Story 4".
+
+Jacob is the father of Roy. Maria is the teacher of Roy.
+Roy fails in exam. Maria scolds Roy.
+Jacob helps Roy in studies. Roy admires Jacob. Roy performs well in exams.
+
+The end.
